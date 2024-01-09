@@ -1,0 +1,63 @@
+@media(max-width: 1199.5px){
+
+    /*custom css*/
+    .card{
+        padding: 2.5rem 1.875rem;
+
+    }
+
+    /* header */
+
+    /* top banner */
+
+    /* about */
+
+    /* services */
+}
+
+@media(max-width: 991px){
+
+    /*custom css*/
+    .wrapper{
+        padding: 3.125rem 0;
+    }
+
+    .main-btn{
+        font-size: .875rem;
+    }
+
+   h1{
+    font-size: 2.5rem;
+    margin-bottom: 2.5rem;
+   }
+
+   h5{
+    font-size: 1.25rem;
+   }
+ 
+    /* 2 navbar */
+
+    /*  banner */
+
+    /* about */
+
+    /* services */
+}
+
+@media(max-width: 767px){
+
+    /*custom css*/
+   
+    /* 2 navbar */
+
+    /*  banner */
+
+    /* about */
+
+    /* services */
+}
+
+@media(max-width : 360px){
+    /* banner */
+    /* about */
+}
